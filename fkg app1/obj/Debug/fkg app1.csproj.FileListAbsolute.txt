@@ -1,0 +1,13 @@
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\bin\Debug\fkg app1.exe.config
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\bin\Debug\girls.mdf
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\bin\Debug\girls_log.ldf
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\bin\Debug\fkg app1.exe
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\bin\Debug\fkg app1.pdb
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\obj\Debug\fkg app1.csprojResolveAssemblyReference.cache
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\obj\Debug\fkg_app1.Form1.resources
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\obj\Debug\fkg_app1.GridViewForm.resources
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\obj\Debug\fkg_app1.Properties.Resources.resources
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\obj\Debug\fkg app1.csproj.GenerateResource.Cache
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\obj\Debug\fkg app1.exe
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\obj\Debug\fkg app1.pdb
+d:\users\agott\documents\visual studio 2015\Projects\fkg app1\fkg app1\obj\Debug\fkg_app1.AddForm.resources
